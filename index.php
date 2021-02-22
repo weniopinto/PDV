@@ -31,7 +31,23 @@
       <!--NAVBAR-->  
 
     <body>
-        
+      <br> <br>
+      <div class="row" >
+      <div class="col s12">
+        <div class="card-panel teal center">
+          <span class="white-text">
+          <h5>
+          Você está na tela inicial do controle de estoque! <br>
+          Nos demais botões você pode encontrar PRODUTOS, VENDAS e RELATÓRIOS <br>
+          PRODUTOS - será o comando em que você irá adicionar os demais produtos ao estoque<br>
+          VENDAS - tudo que você vender será subtraído do estoque<br>
+          RELATÓRIO - dará a demanda exata do mês
+          </h5>
+          </span>
+        </div>
+      </div>
+    </div>
+    
     
       <!--JavaScript-->
       <script type="text/javascript" src="js/materialize.min.js"></script>

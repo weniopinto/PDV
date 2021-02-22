@@ -1,0 +1,5 @@
+[2021-02-22 14:25:49.521] [sharedprocess] [info] main {"machineId":"ce6298e82beeded7ff3e5085f0d93f39b833b7dfc4366a6e6841b3e285995f43","windowId":2}
+[2021-02-22 14:25:49.732] [sharedprocess] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/var/www/html/PDV/~/.vscode-root/User/snippets'
+[2021-02-22 14:25:50.438] [sharedprocess] [info] Deleted from disk ms-toolsai.jupyter /home/wenio/.vscode/extensions/ms-toolsai.jupyter-2020.12.414227025
+[2021-02-22 14:25:50.522] [sharedprocess] [info] Deleted from disk ms-python.python /home/wenio/.vscode/extensions/ms-python.python-2021.1.502429796
+[2021-02-22 14:26:29.564] [sharedprocess] [info] Starting to clean up unused language packs.
