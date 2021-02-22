@@ -19,8 +19,8 @@
         <div class="nav-wrapper purple">
           <a href="#!" class="brand-logo center" style="font-family: arial;">CONTROLE DE ESTOQUE</a>
           <ul class="right hide-on-med-and-down">
-            <li class="active"><a href="#">Produtos<i class="material-icons left">add_box</i></a></li>
-            <li><a href="#">Venda<i class="material-icons left">local_atm</i></a></li>
+            <li class="active"><a href="#">Estoque<i class="material-icons left">add_shopping_cart</i></a></li>
+            <li><a href="venda.php">Venda<i class="material-icons left">local_atm</i></a></li>
             <li><a href="#">Relatórios<i class="material-icons left">insert_chart</i></a></li>
           </ul>
           <ul class="left hide-on-med-and-down">
@@ -37,10 +37,12 @@
 
         <thead>
           <tr>
-              <th>ID</th>
+              <th>Cod.</th>
               <th>Nome</th>
               <th>Categoria</th>
               <th>Quantidade</th>
+              <th>Valor Unit.</th>
+              <th>Modificação</th>
               <th>Editar/Apagar</th>
           </tr>
         </thead>
@@ -49,16 +51,18 @@
 
           <tr>
             <td>01</td>
-            <td>Arroz Realengo</td>
-            <td>Arroz</td>
+            <td>Gola polo</td>
+            <td>Blusa Masculina</td>
             <td>10</td>
+            <td>R$ 35,00</td>
+            <td>22/02/2021</td>
             <td><a class="btn-small blue" href="#"><i class="material-icons center">edit</i></a><a class="btn-small red" href="#"><i class="material-icons center">delete</i></a></td>
            
 
         </tbody>
       </table>
       </div>
-
+      
       <div class="fixed-action-btn">
         <a class="btn-floating btn-large purple">
           <i class="large material-icons">add</i>
